@@ -1,7 +1,7 @@
 # JavaScript Functional Library Project
 
 ## Learning Goals
-
+z
 - Gain a greater understanding of JavaScript's built-in collection-processing
   methods
 - Gain a greater understanding of callback functions
